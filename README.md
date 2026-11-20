@@ -38,6 +38,8 @@ https://your-username.github.io/your-repo-name/
 
 _Replace this line. Say which rows you left out and why, and how each figure on the site is defined. "Five things that will bite you" in the description sheet lists the problems to cover._
 
+Run `python3 scripts/update_median_sale_prices.py` from the repository root to refresh the median sale price table in `index.html` from the CSV.
+
 ## Tools we used
 
 _Replace this line with your AI coding agent or agents, and any libraries and other tools you used._
